@@ -1,1 +1,2 @@
-helo this is devops team . welcomes you all
+helo this is devops team . 
+Welcome to the new course .
